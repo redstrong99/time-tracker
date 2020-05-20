@@ -3,6 +3,6 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-## causing conflict
+## purpose
 
-Add changes to cause trouble
+Maven example for various training courses
